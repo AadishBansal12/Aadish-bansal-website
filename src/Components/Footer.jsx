@@ -66,18 +66,18 @@ const Footer = (props) => {
           </a>
         )}
         {devDotTo && (
-          <a href={`https://dev.to/${devDotTo}`} target="_blank" rel="noopener noreferrer">
+          <a href={`https://dev.to/aadishbansal`} target="_blank" rel="noopener noreferrer">
             <img src={devDotToIcon} alt="Dev.to" className="socialIcon" />
           </a>
         )}
         {gitHub && (
-          <a href={`https://github.com/${gitHub}`} target="_blank" rel="noopener noreferrer">
+          <a href={`https://github.com/AadishBansal12`} target="_blank" rel="noopener noreferrer">
             <img src={gitHubIcon} alt="GitHub" className="socialIcon" />
           </a>
         )}
         {instagram && (
           <a
-            href={`https://www.instagram.com/${instagram}`}
+            href={`https://www.instagram.com/aadish.bansal/`}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -86,7 +86,7 @@ const Footer = (props) => {
         )}
         {linkedIn && (
           <a
-            href={`https://www.linkedin.com/in/${linkedIn}`}
+            href={`https://www.linkedin.com/in/aadishbansal1/`}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -94,18 +94,18 @@ const Footer = (props) => {
           </a>
         )}
         {medium && (
-          <a href={`https://medium.com/@${medium}`} target="_blank" rel="noopener noreferrer">
+          <a href={`https://medium.com/@aadishbansal12`} target="_blank" rel="noopener noreferrer">
             <img src={mediumIcon} alt="Medium" className="socialIcon" />
           </a>
         )}
         {twitter && (
-          <a href={`https://twitter.com/${twitter}`} target="_blank" rel="noopener noreferrer">
+          <a href={`https://twitter.com/AadiArt`} target="_blank" rel="noopener noreferrer">
             <img src={twitterIcon} alt="Twitter" className="socialIcon" />
           </a>
         )}
         {youTube && (
           <a
-            href={`https://www.youtube.com/c/${youTube}`}
+            href={`https://www.youtube.com/@aadimodernart`}
             target="_blank"
             rel="noopener noreferrer"
           >
